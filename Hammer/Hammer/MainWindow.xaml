@@ -48,16 +48,6 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="100,100 200,100 200,200 100,100" StrokeThickness="5" Stroke="White" Margin="506,122,236,154" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
-            <Polygon.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="241.069"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Polygon.RenderTransform>
-        </Polygon>
         <Polygon Points="200,200 100,200 100,200 100,100" StrokeThickness="5" Stroke="White" Margin="508,124,234,152" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
@@ -158,26 +148,6 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200,200 100,200 100,200 100,100" StrokeThickness="5" Stroke="White" Margin="230,296,512,155" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
-            <Polygon.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-27.274"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Polygon.RenderTransform>
-        </Polygon>
-        <Polygon Points="200,200 100,200 100,200 100,100" StrokeThickness="5" Stroke="White" Margin="126,100,616,349" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
-            <Polygon.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-27.274"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Polygon.RenderTransform>
-        </Polygon>
         <Polygon Points="100,100 200,100 200,200 100,100" StrokeThickness="5" Stroke="White" Margin="129,97,613,337" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
@@ -188,32 +158,12 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200,200 100,200 100,200 100,100" StrokeThickness="5" Stroke="White" Margin="126,100,616,349" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
-            <Polygon.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-27.274"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Polygon.RenderTransform>
-        </Polygon>
         <Polygon Points="200,200 100,200 100,200 100,100" StrokeThickness="5" Stroke="White" Margin="316,4,426,445" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
                     <RotateTransform Angle="-27.274"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Polygon.RenderTransform>
-        </Polygon>
-        <Polygon Points="100,100 200,100 200,200 100,100" StrokeThickness="5" Stroke="White" Margin="319,3,423,431" Fill="DarkBlue" RenderTransformOrigin="0.5,0.5">
-            <Polygon.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-28.143"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Polygon.RenderTransform>
@@ -358,7 +308,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="554,485,266,38" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="553,479,267,44" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -368,7 +318,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="498,596,322,-74" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="496,591,328,-65" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -378,7 +328,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="244,157,576,364" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="243,158,577,363" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -428,7 +378,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="394,-23,426,544" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="397,-22,423,543" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -478,7 +428,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="412,209,408,311" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="419,209,401,311" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -528,7 +478,7 @@
                 </TransformGroup>
             </Polygon.RenderTransform>
         </Polygon>
-        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="266,393,554,126" Fill="White" RenderTransformOrigin="0.5,0.5">
+        <Polygon Points="200 200 100 200 100 200 100 100" StrokeThickness="5" Stroke="Gray" Margin="264,392,556,127" Fill="White" RenderTransformOrigin="0.5,0.5">
             <Polygon.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
